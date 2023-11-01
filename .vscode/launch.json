@@ -1,0 +1,84 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "MathodsOfJpaApplication",
+            "request": "launch",
+            "mainClass": "org.jt.mathodsofjpa.MathodsOfJpaApplication",
+            "projectName": "mathods-of-jpa"
+        },
+        {
+            "type": "java",
+            "name": "JpaAnnotaionConceptApplication",
+            "request": "launch",
+            "mainClass": "org.jt.jpaannotaionconcept.JpaAnnotaionConceptApplication",
+            "projectName": "jpa-annotaion-concept"
+        },
+        {
+            "type": "java",
+            "name": "JpaconceptApplication",
+            "request": "launch",
+            "mainClass": "org.jt.jpaconcept.JpaconceptApplication",
+            "projectName": "jpaconcept"
+        },
+        {
+            "type": "java",
+            "name": "StudentdetailApplication",
+            "request": "launch",
+            "mainClass": "org.jt.studentdetail.StudentdetailApplication",
+            "projectName": "studentdetail"
+        },
+        {
+            "type": "java",
+            "name": "BlogApplication",
+            "request": "launch",
+            "mainClass": "org.jt.blog.BlogApplication",
+            "projectName": "blog"
+        },
+        {
+            "type": "java",
+            "name": "FrontendDataPassApplication",
+            "request": "launch",
+            "mainClass": "org.jt.frontenddatapass.FrontendDataPassApplication",
+            "projectName": "frontend-data-pass"
+        },
+        {
+            "type": "java",
+            "name": "BackendDataShareApplication",
+            "request": "launch",
+            "mainClass": "org.jt.backend_data_share.BackendDataShareApplication",
+            "projectName": "backend_data_share"
+        },
+        {
+            "type": "java",
+            "name": "ThymleafConcetApplication",
+            "request": "launch",
+            "mainClass": "org.jt.thymleaf_concet.ThymleafConcetApplication",
+            "projectName": "thymleaf_concet"
+        },
+        {
+            "type": "java",
+            "name": "DevtoolconceptApplication",
+            "request": "launch",
+            "mainClass": "org.jt.devtoolconcept.DevtoolconceptApplication",
+            "projectName": "devtoolconcept"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "HellowebApplication",
+            "request": "launch",
+            "mainClass": "org.jt.helloweb.HellowebApplication",
+            "projectName": "helloweb"
+        }
+    ]
+}
